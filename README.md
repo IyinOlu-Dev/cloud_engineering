@@ -32,7 +32,7 @@ This system is designed to correct those failure modes by enforcing a structured
 The training system is organized into three phases, each increasing in scope and rigor:
 
 **Phase 1 — Foundations**
-Core Linux operation, scripting fundamentals, and baseline Git discipline
+Core Linux operation and scripting fundamentals
 
 **Phase 2 — Integration**
 System troubleshooting, security fundamentals, and operational workflows
